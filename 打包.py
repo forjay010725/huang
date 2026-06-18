@@ -1,6 +1,5 @@
 #!/usr/bin/env python3
 """
-BLE设备配对工具打包脚本 - 虚拟环境兼容版
 使用PyInstaller将Python脚本打包为独立可执行文件
 """
 
